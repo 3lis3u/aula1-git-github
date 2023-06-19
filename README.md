@@ -16,3 +16,5 @@
  - Para retona ao último commit, removendo as alterações feitas nos arquivos: ``git reset --hard HEAD~1``
  - Para retorna ao commit do ID especificado, mantendo as alterações (soft) ou removendo as alterações (hard): ``git reset --soft [id do commit] / git reset --hard [id do commit]``
  - Para destacar um texte: ``Aspas duplas no ininicio e final do texto.``
+ -Para fazer o upload de um arquivo para o reposito online: ´´ git push´´
+ -Para abrir o vscode: ´´ code .´´
